@@ -2,7 +2,8 @@ import time
 import urllib
 import sys
 import os
-
+ #copy script 
+#orjinal script error killer (hasintaka piyumal)
 os.system('clear')
 
 bar = "\033[1;33;40m\n_________________________________________________\n"
